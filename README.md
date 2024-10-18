@@ -12,3 +12,7 @@
 1. `cd your-package-name`
 1. `rm -rf .git && git init .`
 1. Edit package.json
+1. Write tests in `tests/my-test.test.ts`
+1. Export library code from `src/index.ts`
+1. Add the remote you created above, as `origin`
+1. git push origin main
