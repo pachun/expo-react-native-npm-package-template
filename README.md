@@ -5,8 +5,8 @@
 # A template for creating npm packages for RN/Expo tools
 
 1. Create a new GitHub repository named `your-package-name`
-1. Set the NPM_TOKEN github secret on that GitHub repository
-1. [Follow the steps here to set up the code coverage reporting badge](https://github.com/marketplace/actions/coverage-badge) for that GitHub repository
+1. Set the NPM_TOKEN github secret in that GitHub repository
+1. [Follow the steps here to set up the code coverage reporting badge](https://github.com/marketplace/actions/coverage-badge) in that GitHub repository
 1. Clone this repository
 1. `mv expo-react-native-npm-package-template your-package-name`
 1. `cd your-package-name`
