@@ -1,6 +1,5 @@
-[![MIT License](https://img.shields.io/npm/l/@pachun/react-native-use-app-lifecycle.svg?style=flat-square)](https://github.com/pachun/react-native-use-app-lifecycle/blob/main/LICENSE)
-[![npm version](https://img.shields.io/npm/v/@pachun/react-native-use-app-lifecycle.svg)](https://www.npmjs.com/package/@pachun/react-native-use-app-lifecycle)
-[![cov](https://pachun.github.io/react-native-use-app-lifecycle/badges/coverage.svg)](https://github.com/pachun/react-native-use-app-lifecycle/actions)
+[![npm version](https://img.shields.io/npm/v/@pachun/YOUR_PACKAGE_NAME.svg)](https://www.npmjs.com/package/@pachun/YOUR_PACKAGE_NAME)
+[![cov](https://pachun.github.io/YOUR_PACKAGE_NAME/badges/coverage.svg)](https://github.com/pachun/YOUR_PACKAGE_NAME/actions)
 
 # A template for creating npm packages for RN/Expo tools
 
@@ -14,6 +13,6 @@
 1. Edit package.json
 1. Write tests in `tests/my-test.test.ts`
 1. Export library code from `src/index.ts`
-1. Edit README.md
+1. Edit README.md (replace `YOUR_PACKAGE_NAME`)
 1. Add the remote you created above, as `origin`
 1. git push origin main
