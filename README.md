@@ -15,4 +15,4 @@
 1. Export library code from `src/index.ts`
 1. Edit README.md (replace `YOUR_PACKAGE_NAME`)
 1. Add the remote you created above, as `origin`
-1. git push origin main
+1. `git push origin main`
